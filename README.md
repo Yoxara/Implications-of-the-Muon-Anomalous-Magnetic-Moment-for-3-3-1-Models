@@ -1,4 +1,4 @@
-#  Implications-of-the-Muon-Anomalous-Magnetic-Moment-for-3-3-1-Models
+#  Implications of the muon anomalous magnetic moment for 3-3-1 models
 
 ### Mathematica numerical codes for the general analytical expressions of the muon anomalous magnetic moment to 3-3-1 Models
 
